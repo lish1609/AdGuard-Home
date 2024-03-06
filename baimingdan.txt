@@ -5,3 +5,4 @@
 @@||reces.cn^
 @@||103.30.76.234^
 @@||trli.club^
+@@||tenpay.wechatpay.cn^
