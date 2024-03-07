@@ -9,3 +9,4 @@
 @@||ceweilai.cn^
 @@||eduexam.cn^
 @@||wx.ceweilai.cn^
+@@||in.appcenter.ms^
