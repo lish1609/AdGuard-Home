@@ -6,8 +6,9 @@
 @@||103.30.76.234^
 @@||trli.club^
 @@||tenpay.wechatpay.cn^
-@@||ceweilai.cn^
-@@||eduexam.cn^
-@@||wx.ceweilai.cn^
 @@||appcenter.ms^
 @@||ghxi.com^
+#策未来
+@@||ceweilai.cn^
+@@||eduexam.cn^
+@@||qnqcdn.net^
