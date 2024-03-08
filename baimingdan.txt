@@ -12,3 +12,5 @@
 @@||ceweilai.cn^
 @@||eduexam.cn^
 @@||qnqcdn.net^
+#芝麻收款
+@@||hotapp.com.cn
