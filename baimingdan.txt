@@ -13,4 +13,7 @@
 @@||eduexam.cn^
 @@||qnqcdn.net^
 #芝麻收款
-@@||hotapp.com.cn
+@@||hotapp.com.cn^
+#微软
+@@||live.com^
+@@||microsoft.com^
