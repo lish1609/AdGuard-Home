@@ -17,3 +17,5 @@
 #微软
 @@||live.com^
 @@||microsoft.com^
+#k米
+@@||ktvme.com^
