@@ -19,3 +19,6 @@
 @@||microsoft.com^
 #k米
 @@||ktvme.com^
+#抖音
+@@||v5-g.douyinvod.com^
+@@||p26.douyinpic.com^
