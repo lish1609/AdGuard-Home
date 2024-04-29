@@ -27,3 +27,5 @@
 @@||aliyundrive.com^
 #三星
 @@||samsung.com^
+#海岛骑兵
+boombeachgame.com
