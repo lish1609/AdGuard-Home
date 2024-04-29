@@ -25,3 +25,5 @@
 #阿里云
 @@||alipan.com^
 @@||aliyundrive.com^
+#三星
+@@||samsung.com^
