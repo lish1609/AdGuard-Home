@@ -20,7 +20,8 @@
 #k米
 @@||ktvme.com^
 #抖音
-#
+@@||v5-g.douyinvod.com^
+@@||p26.douyinpic.com^
 #阿里云
 @@||alipan.com^
 @@||aliyundrive.com^
