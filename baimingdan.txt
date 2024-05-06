@@ -34,5 +34,7 @@ boombeachgame.com
 #aaaa
 @@||missav.com^
 @@||missav.recombee.com^
+#ome.tv
+@@||ome.tv^
 
 
